@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princegoyal1/DSA_Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3903-smallest-stable-index-i](https://github.com/princegoyal1/DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/princegoyal1/DSA_Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/princegoyal1/DSA_Leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
